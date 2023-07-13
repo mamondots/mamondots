@@ -4,7 +4,7 @@
 #### Passionate Fronted Developer from Bangladesh
 
 
-Hi, I'm Al Mamon, a junior web developer on Bangladesh. My
+Hi, I'm Al Mamon, a junior web developer. My
 expertise is in front-end web development and back-end
 development. Since then, I have been working in this field for
 long time. During that period, I developed several dynamic
